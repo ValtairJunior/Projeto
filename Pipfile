@@ -10,6 +10,8 @@ flask-migrate = "*"
 flask-restful = "*"
 pyjwt = "*"
 sqlalchemy = "*"
+flask-sqlalchemy = "*"
+flask-cors = "*"
 
 [dev-packages]
 
